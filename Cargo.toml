@@ -1,5 +1,5 @@
 [package]
-name = "wasm-kick-start"
+name = "hello-world-rust-wasm"
 version = "0.1.0"
 authors = ["karthiknedunchezhiyan"]
 edition = "2018"
